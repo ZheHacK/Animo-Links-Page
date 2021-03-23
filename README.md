@@ -25,5 +25,5 @@ Line No: 74 replace (Your Mail) with your gmail without brackets
 ## Contact Me
 #### 👨‍💻 Irshad Ali<br>
 #### 📝 phonerefer@gmail.com or hello@phonerefer.com<br>
-#### 🌍 https://irshadali.codes
+#### 🌍 https://www.rojialhaqy.com
 
