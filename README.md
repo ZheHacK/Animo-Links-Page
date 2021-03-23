@@ -23,7 +23,7 @@ Replace (Your Country) with Your Country Name<br>
 Line No: 74 replace (Your Mail) with your gmail without brackets 
 
 ## Contact Me
-#### 👨‍💻 RojiAlHaqy<br>
+#### 👨‍💻 ROJIALHAQY<br>
 #### 📝 rojialhaqy@gmail.com<br>
 #### 🌍 https://www.rojialhaqy.com
 
